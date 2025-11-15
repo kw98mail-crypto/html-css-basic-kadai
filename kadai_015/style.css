@@ -11,7 +11,7 @@
   color: rgb(255, 192, 203);
   }
 h1  {
-  font-family:"Arial", "Meiryo", sans-serif;
+  font-family:"Arial", "Meiryo",  Josefin Sans;
   font-size: 2rem;
     text-align: center;
   letter-spacing: 1.2em;
@@ -27,8 +27,8 @@ p {
   text-align: center;
 }
 .class {
-  font-weight: bolder
+  font-weight: bolder;
 }
 #basic {
-  font-weight: bolder
+  font-weight: bolder;
 }
