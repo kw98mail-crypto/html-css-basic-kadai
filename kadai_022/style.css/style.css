@@ -57,12 +57,10 @@ a:hover{
 }
 
 @media screen and (max-width:768px) {
-    div {
     #parent {
         flex-direction: column;
     }
-    }
-h2 {
+    h2 {
     font-size: 30px;
 }
 p  {
